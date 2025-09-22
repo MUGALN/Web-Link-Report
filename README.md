@@ -47,6 +47,15 @@ pip install --upgrade selenium requests openpyxl pillow
 
 ---
 
+## ▶️ Execution Steps
+
+To run the Streamlit app locally:
+
+1. python -m venv venv  
+2. venv\Scripts\activate  
+3. pip install -r requirements.txt  
+4. streamlit run site_link_compare_frontend.py
+
 ## ▶️ Quick Start
 
 ```bash
